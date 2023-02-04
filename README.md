@@ -10,23 +10,23 @@
 
 ### Tech
 
-[x] Next.js 13+
-[x] Typescript
-[x] CSS Modules
-[ ] Recoil (상태 관리)
-[ ] ContentLayer (MDX)
-[ ] next-sitemap (동적 sitemap 구성)
-[ ] Jest (테스팅)
-[ ] @next/font
+- [x] Next.js 13+
+- [x] Typescript
+- [x] CSS Modules
+- [ ] Recoil (상태 관리)
+- [ ] ContentLayer (MDX)
+- [ ] next-sitemap (동적 sitemap 구성)
+- [ ] Jest (테스팅)
+- [ ] @next/font
 
 ### Concepts & Rules
 
-[ ] 모바일 우선 개발
-[ ] 디자인 욕심부리지 말기
+- [ ] 모바일 우선 개발
+- [ ] 디자인 욕심부리지 말기
 
 ### Dev-ops
 
-[ ] git commit convention
-[ ] Github Action (CI/CD)
-[ ] Vercel (배포, 분석)
-[ ] blog.fecapark.com 연결
+- [ ] git commit convention
+- [ ] Github Action (CI/CD)
+- [ ] Vercel (배포, 분석)
+- [ ] blog.fecapark.com 연결
