@@ -1,38 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# fecapark blog
 
-## Getting Started
+- 개인 블로그 만들겁니다.
 
-First, run the development server:
+- 그냥 내가 만들고 생각하고 그런거 글 쓰고 싶은데 맘에 드는 플랫폼이 딱히 없어서 공부 차원에서 제가 직접 만듭니다.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- 2023년 2월 5일에 시작합니다.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 사용하고 지킬 것
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Tech
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+[x] Next.js 13+
+[x] Typescript
+[x] CSS Modules
+[ ] Recoil (상태 관리)
+[ ] ContentLayer (MDX)
+[ ] next-sitemap (동적 sitemap 구성)
+[ ] Jest (테스팅)
+[ ] @next/font
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Concepts & Rules
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+[ ] 모바일 우선 개발
+[ ] 디자인 욕심부리지 말기
 
-## Learn More
+### Dev-ops
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[ ] git commit convention
+[ ] Github Action (CI/CD)
+[ ] Vercel (배포, 분석)
+[ ] blog.fecapark.com 연결
