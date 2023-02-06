@@ -1,0 +1,10 @@
+.header {
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  font-family: var(--font-futura), var(--font-noto-sans-kr), sans-serif;
+  font-weight: 300;
+}
