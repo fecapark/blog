@@ -1,3 +1,7 @@
 :root {
-  --font-futura: "Futura", var(--noto-sans-kr), sans-serif;
+  /* Font */
+  --font-color: #121212;
+
+  /* Theme */
+  --theme-icon-hover: #e8e8ea;
 }

@@ -17,11 +17,11 @@
 - [ ] ContentLayer (MDX)
 - [ ] next-sitemap (동적 sitemap 구성)
 - [ ] Jest (테스팅)
-- [ ] @next/font
+- [x] @next/font
 
 ### Concepts & Rules
 
-- [ ] 모바일 우선 개발
+- [x] 모바일 우선 개발
 - [ ] 디자인 욕심부리지 말기
 
 ### Dev-ops
